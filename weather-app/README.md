@@ -22,3 +22,7 @@ Set some basic variables:
 `$json` - gets content of a file retuned by the API URL in JSON format. URL string contains query string variables with dynamic values provided by PHP variables, concatenated with the string
 
 `$weather_data` - converts JSON into PHP Array
+
+## API Documentation
+
+http://openweathermap.org/api
